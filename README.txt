@@ -1,8 +1,5 @@
 testGit1 readme
 ------------------------
 develop
-<<<<<<< HEAD
-2
-a
-
-333333
+add by other dev
+33333
